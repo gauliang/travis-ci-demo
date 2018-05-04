@@ -4,7 +4,7 @@
   "description": "travis-ci-demo",
   "main": "index.js",
   "scripts": {
-    "test": "0"
+    "test": "echo \"Pass\" && exit 0"
   },
   "repository": {
     "type": "git",
